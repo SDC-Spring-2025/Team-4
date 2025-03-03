@@ -2,7 +2,7 @@ _This is just a suggested template for the README of your project, feel free to 
 # \<Project Title\>
 
 ### Team Members
-- Name 1 (Project Lead)
+- Rameez Rahaman (Team Lead)
 - Divij Agarwal
 - Dhruv Mal
 - Shivanth Peddada
